@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">Mad Lib!</h1>
 
 A fun, interactive MadLib game where users fill in prompts to create silly stories.
@@ -58,3 +59,6 @@ A fun, interactive MadLib game where users fill in prompts to create silly stori
 ## License
 MIT License
 
+=======
+# mad-lib
+>>>>>>> 65b956d (Initial commit)
