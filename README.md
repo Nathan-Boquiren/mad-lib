@@ -1,8 +1,5 @@
 <h1 align="center">Mad Lib!</h1>
 
-
-# MadLib Web App
-
 A fun, interactive MadLib game where users fill in prompts to create silly stories.
 
 ## Features
