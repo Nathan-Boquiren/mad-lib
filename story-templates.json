@@ -1,0 +1,201 @@
+[
+  {
+    "title": "The Day My Pet Learned to Text",
+    "story": "It all started on a {1} afternoon when my pet {2} stared deeply into my phone and suddenly typed \"{3}\" with its {4}. At first, I thought it was a glitch—or maybe I'd eaten too many {5}—but then it sent a selfie with a filter that made it look like a {6}.\n\nBy dinner, it had already posted three memes, joined a group chat called \"{7},\" and ordered a crate of {8} from an online store called \"SnailPrime.\" I caught it trying to DM my {9}, asking for tips on how to do a proper {10}.\n\nThen it started livestreaming. Viewers thought it was performance art. One even donated {11} to see it reenact a scene from \"{12}.\" My phone was blowing up faster than a {13} in a tumble dryer.\n\nEventually, the news picked it up, and now my pet is sponsored by {14} and signs autographs using a {15}. Meanwhile, I still can’t get a text back from my dentist.",
+    "inputPrompts": [
+      {
+        "id": 1,
+        "prompt": "Adjective, describing weather or mood (e.g., gloomy, sparkly)"
+      },
+      {
+        "id": 2,
+        "prompt": "Animal you’d want as a pet but probably shouldn’t"
+      },
+      {
+        "id": 3,
+        "prompt": "Weird phrase someone might text you at 3 a.m."
+      },
+      {
+        "id": 4,
+        "prompt": "Body part, preferably not human (e.g., tentacle, beak)"
+      },
+      {
+        "id": 5,
+        "prompt": "Plural noun, junk food or snacks"
+      },
+      {
+        "id": 6,
+        "prompt": "Noun, mythical creature or fictional character"
+      },
+      {
+        "id": 7,
+        "prompt": "Funny or quirky group chat name"
+      },
+      {
+        "id": 8,
+        "prompt": "Plural noun, something weird to order in bulk"
+      },
+      {
+        "id": 9,
+        "prompt": "Person you know or a celebrity (first name only)"
+      },
+      {
+        "id": 10,
+        "prompt": "Noun, a dance move or physical stunt"
+      },
+      {
+        "id": 11,
+        "prompt": "Amount of money, oddly specific (e.g., $4.72)"
+      },
+      {
+        "id": 12,
+        "prompt": "Movie title, real or made-up"
+      },
+      {
+        "id": 13,
+        "prompt": "Noun, something fragile and ridiculous to spin in a dryer"
+      },
+      {
+        "id": 14,
+        "prompt": "Brand name, real or fictional"
+      },
+      {
+        "id": 15,
+        "prompt": "Noun, an unusual writing tool"
+      }
+    ]
+  },
+  {
+    "title": "My Ridiculous Job Interview",
+    "story": "I arrived at the office wearing my lucky {1}, which I found under a {2} during a camping trip. The receptionist handed me a clipboard made of {3} and asked me to fill out a form using a {4}.\n\nThe interviewer walked in wearing a suit covered in tiny {5} and introduced themselves as Dr. {6}. We shook hands, but instead of a handshake, they insisted on a traditional {7} greeting from the planet \"{8}.\"\n\nThey asked if I could operate a {9} while blindfolded and riding a {10}. I said yes, obviously. Then came the skills test: they handed me a rubber chicken and said, “Demonstrate how you would handle a {11} emergency.”\n\nFor the final question, they asked me to describe myself in exactly {12} syllables while balancing a {13} on my head. I gave it my best shot, ending with the phrase, \"{14}.\"\n\nI didn’t get the job, but they did offer me a free lifetime supply of {15}, so I consider that a win.",
+    "inputPrompts": [
+      {
+        "id": 1,
+        "prompt": "Piece of clothing with emotional value"
+      },
+      {
+        "id": 2,
+        "prompt": "Outdoor object you wouldn’t normally keep"
+      },
+      {
+        "id": 3,
+        "prompt": "Material something shouldn't logically be made of"
+      },
+      {
+        "id": 4,
+        "prompt": "Unusual writing utensil"
+      },
+      {
+        "id": 5,
+        "prompt": "Plural noun, tiny animals or creatures"
+      },
+      {
+        "id": 6,
+        "prompt": "Silly or made-up last name"
+      },
+      {
+        "id": 7,
+        "prompt": "Verb ending in -ing, a strange greeting gesture"
+      },
+      {
+        "id": 8,
+        "prompt": "Made-up planet name"
+      },
+      {
+        "id": 9,
+        "prompt": "Machine or tool you wouldn’t use in an office"
+      },
+      {
+        "id": 10,
+        "prompt": "Animal you'd see at a petting zoo"
+      },
+      {
+        "id": 11,
+        "prompt": "Type of emergency that doesn't make sense"
+      },
+      {
+        "id": 12,
+        "prompt": "A number less than 15"
+      },
+      {
+        "id": 13,
+        "prompt": "Lightweight object you could balance"
+      },
+      {
+        "id": 14,
+        "prompt": "Motivational or absurd quote"
+      },
+      {
+        "id": 15,
+        "prompt": "Plural noun, favorite snack or treat"
+      }
+    ]
+  },
+  {
+    "title": "Time Travel Trouble",
+    "story": "I accidentally invented a time machine using a {1}, a roll of {2}, and pure spite. My first destination? The year {3}, right in the middle of a {4} convention held inside a giant {5}.\n\nPeople wore clothes made entirely of {6} and greeted me by offering a {7}. I tried to blend in by pretending to be a professional {8}, but my {9} gave me away.\n\nI ran into my future self, who had a robotic {10} and spoke only in Shakespearean insults like \"{11}!\" They warned me to avoid the {12} at all costs—or risk turning into a sentient {13}.\n\nBefore I could react, a time security guard riding a {14} shouted, “No unauthorized {15}!” and zapped me back to my timeline.\n\nI woke up in my garage, clutching a half-eaten {1} and wondering if I should try again tomorrow.",
+    "inputPrompts": [
+      {
+        "id": 1,
+        "prompt": "Noun, random object commonly found in a junk drawer"
+      },
+      {
+        "id": 2,
+        "prompt": "Material that could never support structural weight"
+      },
+      {
+        "id": 3,
+        "prompt": "Year in the past or future"
+      },
+      {
+        "id": 4,
+        "prompt": "Type of event or gathering (e.g., pie-eating, llama yoga)"
+      },
+      {
+        "id": 5,
+        "prompt": "Large structure or container, not meant for events"
+      },
+      {
+        "id": 6,
+        "prompt": "Texture or fabric you’d never wear"
+      },
+      {
+        "id": 7,
+        "prompt": "Edible item that doubles as a gift"
+      },
+      {
+        "id": 8,
+        "prompt": "Unusual job title"
+      },
+      {
+        "id": 9,
+        "prompt": "Clothing item with an obvious flaw"
+      },
+      {
+        "id": 10,
+        "prompt": "Body part, but robotic"
+      },
+      {
+        "id": 11,
+        "prompt": "Old-fashioned insult or weird phrase"
+      },
+      {
+        "id": 12,
+        "prompt": "Noun, mysterious glowing object"
+      },
+      {
+        "id": 13,
+        "prompt": "Noun, squishy or odd texture item"
+      },
+      {
+        "id": 14,
+        "prompt": "Ridiculous vehicle or animal"
+      },
+      {
+        "id": 15,
+        "prompt": "Plural noun, illegal or banned items (real or imaginary)"
+      }
+    ]
+  }
+
+]
