@@ -196,6 +196,72 @@
         "prompt": "Plural noun, illegal or banned items (real or imaginary)"
       }
     ]
+  },
+  {
+    "title": "The Kingdom of Slightly Awkward Heroes",
+    "story": "Once upon a time, in the oddly quiet land of {1}, there lived a brave yet socially anxious hero named {2}. Armed only with a magical {3} and a backpack full of {4}, they set off to defeat the legendary beast known as the {5}.\n\nTheir quest began at dawn, after accidentally waking up in a field of {6}. The villagers, who all wore {7} on Tuesdays, waved them off with a chant that sounded suspiciously like \"{8}!\"\n\nThey journeyed across the River of {9}, climbed the towering {10}, and battled an army of {11} armed with nothing but sass and spoons. Just when all seemed lost, a mysterious guide appeared, wearing a cloak made of {12} and carrying a map written in {13}.\n\nThe final battle took place in the Grand Arena of {14}, where our hero defeated the {5} by performing a flawless {15} mid-air.\n\nPeace returned to the land. Everyone celebrated with a feast of {4} and awkward high-fives.",
+    "inputPrompts": [
+      {
+        "id": 1,
+        "prompt": "Made-up kingdom name"
+      },
+      {
+        "id": 2,
+        "prompt": "Silly or noble-sounding name"
+      },
+      {
+        "id": 3,
+        "prompt": "Noun, magical or enchanted object"
+      },
+      {
+        "id": 4,
+        "prompt": "Snack food, plural"
+      },
+      {
+        "id": 5,
+        "prompt": "Name of a made-up monster"
+      },
+      {
+        "id": 6,
+        "prompt": "Plural noun, something unexpected to wake up in"
+      },
+      {
+        "id": 7,
+        "prompt": "Article of clothing, plural"
+      },
+      {
+        "id": 8,
+        "prompt": "Nonsense word or silly phrase"
+      },
+      {
+        "id": 9,
+        "prompt": "Abstract noun, like 'regret' or 'ticklishness'"
+      },
+      {
+        "id": 10,
+        "prompt": "Geographical landmark, real or imaginary"
+      },
+      {
+        "id": 11,
+        "prompt": "Cute but chaotic creatures, plural"
+      },
+      {
+        "id": 12,
+        "prompt": "Unusual material or fabric"
+      },
+      {
+        "id": 13,
+        "prompt": "Language, real or made-up"
+      },
+      {
+        "id": 14,
+        "prompt": "Grand-sounding location name"
+      },
+      {
+        "id": 15,
+        "prompt": "Extreme sport or dance move"
+      }
+    ]
   }
 
 ]
