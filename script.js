@@ -136,8 +136,8 @@ inputForm.addEventListener("submit", (e) => {
   for (let i = 1; i <= totalPrompts; i++) {
     const input = inputData.get(`input-${i}`);
     if (input) {
-      // prettier-ignore
-      updatedStory = updatedStory.replace( `{${i}}`, `<strong>${input}</strong>`);
+      const regex = new RegExp(`\\{${i}\\}`, "g");
+      updatedStory = updatedStory.replace(regex, `<strong>${input}</strong>`);
     }
   }
 
